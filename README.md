@@ -1,7 +1,7 @@
 # bash-commands
 **Preview:** This repo will contain bash command examples to serve as demos for Network Administration college students.
 
-| Command Name | Definition | Sample Usage |
+| Command Name | Definition | Demonstrations |
 | :---: | :---: | :---: |
 | awk | |
 | cat | |
