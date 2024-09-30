@@ -28,6 +28,7 @@
 | hwinfo | |  
 | kill | |
 | locate | |
+| ln | |
 | ls | |
 | lsblk | |  
 | mkdir | |
