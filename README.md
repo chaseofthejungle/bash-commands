@@ -3,7 +3,7 @@
 
 | Command Name | Definition | Demonstrations |
 | :---: | :---: | :---: |
-| awk | |
+| awk | (see gawk) |
 | blkid | |  
 | cat | |
 | cd | |
@@ -21,6 +21,7 @@
 | file | |  
 | find | |
 | ftp | |
+| gawk | The GNU implementation (for scanning and processing) of the AWK pattern programming language in GNU. |
 | grep | |
 | gunzip | |
 | gzip | |
