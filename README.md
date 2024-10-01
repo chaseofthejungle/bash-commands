@@ -4,9 +4,9 @@
 | Command Name | Definition | Demonstrations |
 | :---: | :---: | :---: |
 | awk | (see gawk) |
-| blkid | |  
-| cat | |
-| cd | |
+| blkid | Locates and prints block device attributes. |  
+| cat | Concatenates files. Prints using standard output stream. |
+| cd | Changes directory. |
 | chgrp | |
 | chmod | |
 | chown | |
