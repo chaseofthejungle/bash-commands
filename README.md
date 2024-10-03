@@ -8,8 +8,8 @@
 | cat | Concatenates files. Prints using standard output stream. |
 | cd | Changes directory. |
 | chgrp | Changes group ownership association. |
-| chmod | |
-| chown | |
+| chmod | Changes file permissions for users, groups, and others. |
+| chown | Changes file owner and group owner.|
 | cp | |
 | cron | |  
 | curl | |
