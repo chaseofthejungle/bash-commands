@@ -1,8 +1,8 @@
 # bash-commands
 **Preview:** This repo will contain bash command examples to serve as demos for Network Administration college students.
 
-| Command Name | Definition | Demonstrations |
-| :---: | :---: | :---: |
+| Command Name | Definition |
+| :---: | :---: |
 | awk | (see gawk) |
 | blkid | Locates and prints block device attributes. |  
 | cat | Concatenates files. Prints using standard output stream. |
