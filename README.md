@@ -10,8 +10,8 @@
 | chgrp | Changes group ownership association. |
 | chmod | Changes file permissions for users, groups, and others. |
 | chown | Changes file owner and group owner.|
-| cp | |
-| cron | |  
+| cp | Copies files and directories as specified. |
+| cron | Executes/runs commands as scheduled. |  
 | curl | |
 | cut | |
 | df | |
