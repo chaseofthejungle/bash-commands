@@ -12,7 +12,7 @@
 | chown | Changes file owner and group owner.|
 | cp | Copies files and directories as specified. |
 | cron | Executes/runs commands as scheduled. |  
-| curl | |
+| curl | Utility to transfer data (URL) to/from a server. |
 | cut | |
 | df | |
 | diff | |
