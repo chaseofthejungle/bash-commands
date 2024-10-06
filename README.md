@@ -15,8 +15,8 @@
 | cp | Copies files and directories as specified. |
 | cron | Executes/runs commands as scheduled. |  
 | curl | Utility to transfer data (URL) to/from a server. |
-| cut | |
-| df | |
+| cut | Removes specified sections from each text input line. |
+| df | Displays 'disk free'/space usage of filesystems. |
 | diff | |
 | du | |
 | echo | |  
