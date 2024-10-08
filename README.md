@@ -17,8 +17,8 @@
 | curl | Utility to transfer data (URL) to/from a server. |
 | cut | Removes specified sections from each text input line. |
 | df | Displays 'disk free'/space usage of filesystems. |
-| diff | |
-| du | |
+| diff | Performs a line-by-line comparison of files. |
+| du | Displays disk space usage for directories and files. |
 | echo | |  
 | fdisk | |
 | file | |  
