@@ -65,3 +65,5 @@
 | which | |
 | tail | |
 | uniq | |
+
+**TODO:** Group commands by functionality/type.
