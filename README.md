@@ -5,7 +5,7 @@
 
 | Command | Summary |
 | --- | --- |
-| awk | (see gawk) |
+| awk | [see gawk] |
 | blkid | Locates and prints block device attributes. |  
 | cat | Concatenates files. Prints using standard output stream. |
 | cd | Changes directory. |
