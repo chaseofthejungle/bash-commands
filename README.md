@@ -28,7 +28,7 @@
 | grep | |
 | gunzip | |
 | gzip | |
-| head | |  
+| head | Outputs first lines of file (10 by default). |  
 | hwinfo | |  
 | kill | |
 | less | |  
@@ -54,7 +54,7 @@
 | sort | |
 | ssh | |
 | sudo | |
-| tail | |
+| tail | Outputs last lines of file (10 by default). |
 | tee | |
 | top | |
 | touch | |
