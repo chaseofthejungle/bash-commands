@@ -19,8 +19,8 @@
 | df | Displays 'disk free'/space usage of filesystems. |
 | diff | Performs a line-by-line comparison of files. |
 | du | Displays disk space usage for directories and files. |
-| echo | |  
-| fdisk | |
+| echo | Displays strings using standard output stream. |  
+| fdisk | Utility for creating and modifying partition tables. |
 | file | |  
 | find | |
 | ftp | |
