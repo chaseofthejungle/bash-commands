@@ -23,7 +23,7 @@
 | find | Scans directory hierarchy for files. |
 | ftp | Enables usage of File Transfer Protocol. |
 | gawk | The GNU implementation (for scanning and processing) of the AWK pattern programming language in GNU. |
-| grep | |
+| grep | Searches input files for lines that match a specified pattern. |
 | gunzip | |
 | gzip | |
 | head | Outputs first lines of file (10 by default). |  
