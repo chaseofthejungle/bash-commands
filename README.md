@@ -64,4 +64,4 @@
 | **tail** | |
 | **uniq** | |
 
-**TODO:** Group commands by functionality/type.
+**TODO:** Group commands by functionality/type (e.g., performance metric reporting, file creation).
