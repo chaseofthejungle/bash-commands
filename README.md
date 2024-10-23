@@ -35,7 +35,8 @@
 | **ls** | |
 | **lsblk** | |  
 | **man** | |  
-| **mkdir** | |
+| **mkdir** | |  
+| **more** | Allows for paging through text output one screen at a time. |  
 | **mount** | |
 | **mv** | |
 | **parted** | |  
