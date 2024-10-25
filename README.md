@@ -65,5 +65,5 @@
 | **tail** | |
 | **uniq** | |
 
-**TODO:** Group commands by functionality/type (e.g., performance metric reporting, file creation).  
+**TODO:** Group commands by functionality/type (e.g., performance metric reporting, file creation), within repo subfolders.  
 **TODO #2:** Add keyboard shortcuts list.
