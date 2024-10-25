@@ -29,7 +29,7 @@
 | **head** | Outputs first lines of file (10 by default). |  
 | **hwinfo** | Displays information about system hardware. |  
 | **kill** | Sends terminate signal to process/task. |
-| **less** | |  
+| **less** | [see more], plus enables user to scroll backwards. |  
 | **locate** | |
 | **ln** | |
 | **ls** | |
