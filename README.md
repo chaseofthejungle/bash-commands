@@ -37,7 +37,7 @@
 | **man** | Documentation for commands, functions, system calls, and other features. |  
 | **mkdir** | Creates directories. |  
 | **more** | Allows for paging through text output one screen at a time. |  
-| **mount** | Attaches file system of a drive to a target directory. |
+| **mount** | Attaches file system of a drive from a target directory. |
 | **mv** | |
 | **parted** | |  
 | **patch** | |
