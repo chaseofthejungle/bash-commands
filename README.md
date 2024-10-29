@@ -30,10 +30,10 @@
 | **hwinfo** | Displays information about system hardware. |  
 | **kill** | Sends terminate signal to process/task. |
 | **less** | [see more], plus enables user to scroll backwards. |  
-| **locate** | |
-| **ln** | |
-| **ls** | |
-| **lsblk** | |  
+| **locate** | Retrieves file (by file name). |
+| **ln** | Creates links between files. |
+| **ls** | Displays (lists) the contents of a specified directory. |
+| **lsblk** | Displays information about block devices. |  
 | **man** | |  
 | **mkdir** | |  
 | **more** | Allows for paging through text output one screen at a time. |  
