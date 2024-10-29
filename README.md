@@ -38,9 +38,9 @@
 | **mkdir** | Creates directories. |  
 | **more** | Allows for paging through text output one screen at a time. |  
 | **mount** | Attaches file system of a drive to a target directory. |
-| **mv** | |
-| **parted** | |  
-| **patch** | |
+| **mv** | Moves/renames files (similar to a cut/paste of files). |
+| **parted** | Partitions and resizes disks. |  
+| **patch** |  |
 | **ping** | |
 | **ps** | |
 | **pwd** | |
