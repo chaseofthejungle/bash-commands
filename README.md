@@ -34,8 +34,8 @@
 | **ln** | Creates links between files. |
 | **ls** | Displays (lists) the contents of a specified directory. |
 | **lsblk** | Displays information about block devices. |  
-| **man** | |  
-| **mkdir** | |  
+| **man** | Documentation for commands, functions, system calls, and other features. |  
+| **mkdir** | Creates directories. |  
 | **more** | Allows for paging through text output one screen at a time. |  
 | **mount** | |
 | **mv** | |
