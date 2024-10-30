@@ -58,8 +58,8 @@
 | **top** | Provides a realtime display of running tasks. |
 | **touch** | Creates blank files and updates file timestamps. |
 | **umount** | Unattaches file system of a drive from a directory. |
-| **wc** | |
-| **wget** | |
+| **wc** | Outputs byte, word, and newline counts for files. |
+| **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. |
 | **whereis** | |
 | **which** | |
 | **tail** | |
