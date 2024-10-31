@@ -60,8 +60,8 @@
 | **umount** | Unattaches file system of a drive from a directory. |
 | **wc** | Outputs byte, word, and newline counts for files. |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. |
-| **whereis** | |
-| **which** | |
+| **whereis** | Locates manuals and sources/binaries for files. |
+| **which** | Displays absolute path of shell commands. |
 | **tail** | |
 | **uniq** | |
 
