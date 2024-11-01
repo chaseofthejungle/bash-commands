@@ -57,13 +57,12 @@
 | **tee** | Reads from input stream and writes to output stream/files. |
 | **top** | Provides a realtime display of running tasks. |
 | **touch** | Creates blank files and updates file timestamps. |
-| **umount** | Unattaches file system of a drive from a directory. |
+| **umount** | Unattaches file system of a drive from a directory. |  
+| **uniq** | |  
 | **wc** | Outputs byte, word, and newline counts for files. |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. |
 | **whereis** | Locates manuals and sources/binaries for files. |
 | **which** | Displays absolute path of shell commands. |
-| **tail** | |
-| **uniq** | |
 
 **TODO:** Group commands by functionality/type (e.g., performance metric reporting, file creation), within repo subfolders.  
 **TODO #2:** Add keyboard shortcuts list.
