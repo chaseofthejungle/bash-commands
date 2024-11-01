@@ -55,6 +55,7 @@
 | **sudo** | |
 | **tail** | Outputs last lines of file (10 by default). |
 | **tee** | Reads from input stream and writes to output stream/files. |
+| **telnet** | Launches user interface for the TELNET remote communication protocol. |  
 | **top** | Provides a realtime display of running tasks. |
 | **touch** | Creates blank files and updates file timestamps. |
 | **umount** | Unattaches file system of a drive from a directory. |  
