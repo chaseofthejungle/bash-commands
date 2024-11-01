@@ -66,4 +66,4 @@
 | **which** | Displays absolute path of shell commands. |
 
 **TODO:** Group commands by functionality/type (e.g., performance metric reporting, file creation), within repo subfolders.  
-**TODO #2:** Add keyboard shortcuts list.
+**TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
