@@ -51,8 +51,8 @@
 | **sed** | |
 | **sftp** | |
 | **sort** | |
-| **ssh** | |
-| **sudo** | |
+| **ssh** | Launches the SSH remote communication protocol. |
+| **sudo** | Allows user to execute commands as the superuser (or another user). |
 | **tail** | Outputs last lines of file (10 by default). |
 | **tee** | Reads from input stream and writes to output stream/files. |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  
