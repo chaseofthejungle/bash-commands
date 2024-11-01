@@ -58,7 +58,7 @@
 | **top** | Provides a realtime display of running tasks. |
 | **touch** | Creates blank files and updates file timestamps. |
 | **umount** | Unattaches file system of a drive from a directory. |  
-| **uniq** | |  
+| **uniq** | Detects and omits repeated adjacent lines. |  
 | **wc** | Outputs byte, word, and newline counts for files. |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. |
 | **whereis** | Locates manuals and sources/binaries for files. |
