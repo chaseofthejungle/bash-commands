@@ -49,8 +49,8 @@
 | **rsync** | |
 | **scp** | |
 | **sed** | |
-| **sftp** | |
-| **sort** | |
+| **sftp** | Enables usage of a secure file transfer protocol using SSH transport encryption. |
+| **sort** | Arranges lines of text for display via the standard output stream. |
 | **ssh** | Launches the SSH remote communication protocol. |
 | **sudo** | Allows user to execute commands as the superuser (or another user). |
 | **tail** | Outputs last lines of file (10 by default). |
