@@ -1,5 +1,5 @@
 # bash-commands
-*If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/), although it does not contain all of the commands in this repository.*
+*Note: If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/), although it does not contain all of the commands in this repository.*
   
 | Command | Purpose |
 | --- | --- |
