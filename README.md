@@ -40,15 +40,15 @@
 | **mount** | Attaches file system of a drive to a target directory. |
 | **mv** | Moves/renames files (similar to a cut/paste of files). |
 | **parted** | Partitions and resizes disks. |  
-| **patch** |  |
+| **patch** | |
 | **ping** | |
 | **ps** | |
 | **pwd** | |
 | **rm** | |
 | **rmdir** | |
 | **rsync** | |
-| **scp** | |
-| **sed** | |
+| **scp** | Uses ssh data transfer and authentication for remote file copying. |
+| **sed** | Filters and modifies input stream text. |
 | **sftp** | Enables usage of a secure file transfer protocol using SSH transport encryption. |
 | **sort** | Arranges lines of text for display via the standard output stream. |
 | **ssh** | Launches the SSH remote communication protocol. |
