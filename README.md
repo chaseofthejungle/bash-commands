@@ -65,5 +65,5 @@
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
 
-**TODO #1:** Group commands by functionality/type (e.g., performance metric reporting, file creation), within repo subfolders (with command examples).  
+**TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
