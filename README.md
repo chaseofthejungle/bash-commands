@@ -41,9 +41,9 @@
 | **mv** | Moves/renames files (similar to a cut/paste of files). |
 | **parted** | Partitions and resizes disks. |  
 | **patch** | |
-| **ping** | |
-| **ps** | |
-| **pwd** | |
+| **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. |  
+| **ps** | Displays a report on currently running tasks/processes. |
+| **pwd** | Prints working directory to standard output stream. |
 | **rm** | Deletes files or directories. |
 | **rmdir** | Deleted empty directories. |
 | **rsync** | A high-speed utility for remote file copying. |
