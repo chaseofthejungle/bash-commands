@@ -14,11 +14,11 @@
 | **cron** | Executes/runs commands as scheduled. |  
 | **curl** | Utility to transfer data (URL) to/from a server. |
 | **cut** | Removes specified sections from each text input line. |
-| **df** | Displays 'disk free'/space usage of filesystems. |
+| **df** | Displays 'disk free'/space usage of filesystems. | Drives |
 | **diff** | Performs a line-by-line comparison of files. |
-| **du** | Displays disk space usage for directories and files. |
+| **du** | Displays disk space usage for directories and files. | Drives |
 | **echo** | Displays strings using standard output stream. |  
-| **fdisk** | Utility for creating and modifying partition tables. |
+| **fdisk** | Utility for creating and modifying partition tables. | Drives |
 | **file** | Returns file data type. |  
 | **find** | Scans directory hierarchy for files. |
 | **ftp** | Enables usage of File Transfer Protocol. |
