@@ -39,7 +39,7 @@
 | **more** | Allows for paging through text output one screen at a time. |  
 | **mount** | Attaches file system of a drive to a target directory. | Drives |
 | **mv** | Moves/renames files (similar to a cut/paste of files). |
-| **parted** | Partitions and resizes disks. | Devices |
+| **parted** | Partitions and resizes disks. | Drives |
 | **patch** | Modifies file based on source (patch) file instructions produced by the diff utility. |
 | **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. |  
 | **ps** | Displays a report on currently running tasks/processes. |
