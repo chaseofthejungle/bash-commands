@@ -44,9 +44,9 @@
 | **ping** | |
 | **ps** | |
 | **pwd** | |
-| **rm** | |
-| **rmdir** | |
-| **rsync** | |
+| **rm** | Deletes files or directories. |
+| **rmdir** | Deleted empty directories. |
+| **rsync** | A high-speed utility for remote file copying. |
 | **scp** | Uses ssh data transfer and authentication for remote file copying. |
 | **sed** | Filters and modifies input stream text. |
 | **sftp** | Enables usage of a secure file transfer protocol using SSH transport encryption. |
