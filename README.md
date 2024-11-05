@@ -7,9 +7,9 @@
 | **blkid** | Locates and prints block device attributes. |  
 | **cat** | Concatenates files. Prints using standard output stream. |
 | **cd** | Changes directory. |
-| **chgrp** | Changes group ownership association. |
-| **chmod** | Changes file permissions for users, groups, and others. |
-| **chown** | Changes file owner and group owner.|
+| **chgrp** | Changes group ownership association. | Permissions |
+| **chmod** | Changes file permissions for users, groups, and others. | Permissions |
+| **chown** | Changes file owner and group owner. | Permissions |
 | **cp** | Copies files and directories as specified. |
 | **cron** | Executes/runs commands as scheduled. |  
 | **curl** | Utility to transfer data (URL) to/from a server. |
@@ -52,7 +52,7 @@
 | **sftp** | Enables usage of a secure file transfer protocol using SSH transport encryption. |
 | **sort** | Arranges lines of text for display via the standard output stream. |
 | **ssh** | Launches the SSH remote communication protocol. |
-| **sudo** | Allows user to execute commands as the superuser (or another user). |
+| **sudo** | Allows user to execute commands as the superuser (or another user). | Permissions |
 | **tail** | Outputs last lines of file (10 by default). |
 | **tee** | Reads from input stream and writes to output stream/files. |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  
