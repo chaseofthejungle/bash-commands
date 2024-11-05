@@ -5,22 +5,22 @@
 | --- | --- | --- |
 | **awk** | [see gawk] |
 | **blkid** | Locates and prints block device attributes. |  Drives |
-| **cat** | Concatenates files. Prints using standard output stream. |
-| **cd** | Changes directory. |
+| **cat** | Concatenates files. Prints using standard output stream. | |
+| **cd** | Changes directory. | Files and Directories |
 | **chgrp** | Changes group ownership association. | Permissions |
 | **chmod** | Changes file permissions for users, groups, and others. | Permissions |
 | **chown** | Changes file owner and group owner. | Permissions |
-| **cp** | Copies files and directories as specified. |
+| **cp** | Copies files and directories as specified. | Files and Directories |
 | **cron** | Executes/runs commands as scheduled. |  
 | **curl** | Utility to transfer data (URL) to/from a server. |
-| **cut** | Removes specified sections from each text input line. |
+| **cut** | Removes specified sections from each text input line. | Files and Directories |  
 | **df** | Displays 'disk free'/space usage of filesystems. | Drives |
 | **diff** | Performs a line-by-line comparison of files. |
 | **du** | Displays disk space usage for directories and files. | Drives |
 | **echo** | Displays strings using standard output stream. |  
 | **fdisk** | Utility for creating and modifying partition tables. | Drives |
-| **file** | Returns file data type. |  
-| **find** | Scans directory hierarchy for files. |
+| **file** | Returns file data type. | Files and Directories |
+| **find** | Scans directory hierarchy for files. | Files and Directories |
 | **ftp** | Enables usage of File Transfer Protocol. |
 | **gawk** | The GNU implementation (for scanning and processing) of the AWK pattern programming language in GNU. |
 | **grep** | Searches input files for lines that match a specified pattern. |
@@ -30,22 +30,22 @@
 | **hwinfo** | Displays information about system hardware. | |
 | **kill** | Sends terminate signal to process/task. | Processes |
 | **less** | [see more], plus enables user to scroll backwards. |  
-| **locate** | Retrieves file (by file name). |
-| **ln** | Creates links between files. |
-| **ls** | Displays (lists) the contents of a specified directory. |
+| **locate** | Retrieves file (by file name). | Files and Directories |
+| **ln** | Creates links between files. | Files and Directories |
+| **ls** | Displays (lists) the contents of a specified directory. | Files and Directories |
 | **lsblk** | Displays information about block devices. | Drives |
 | **man** | Documentation for commands, functions, system calls, and other features. |  
-| **mkdir** | Creates directories. |  
+| **mkdir** | Creates directories. | Files and Directories |
 | **more** | Allows for paging through text output one screen at a time. |  
 | **mount** | Attaches file system of a drive to a target directory. | Drives |
-| **mv** | Moves/renames files (similar to a cut/paste of files). |
+| **mv** | Moves/renames files (similar to a cut/paste of files). | Files and Directories |
 | **parted** | Partitions and resizes disks. | Drives |
 | **patch** | Modifies file based on source (patch) file instructions produced by the diff utility. |
 | **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. |  
 | **ps** | Displays a report on currently running tasks/processes. | Processes |
-| **pwd** | Prints working directory to standard output stream. |
-| **rm** | Deletes files or directories. |
-| **rmdir** | Deleted empty directories. |
+| **pwd** | Prints working directory to standard output stream. | Files and Directories |
+| **rm** | Deletes files or directories. | Files and Directories |
+| **rmdir** | Deleted empty directories. | Files and Directories |
 | **rsync** | A high-speed utility for remote file copying. |
 | **scp** | Uses ssh data transfer and authentication for remote file copying. |
 | **sed** | Filters and modifies input stream text. |
@@ -57,13 +57,13 @@
 | **tee** | Reads from input stream and writes to output stream/files. |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  
 | **top** | Provides a realtime display of running tasks. | Processes |
-| **touch** | Creates blank files and updates file timestamps. |
+| **touch** | Creates blank files and updates file timestamps. | Files and Directories |
 | **umount** | Unattaches file system of a drive from a directory. | Drives |
 | **uniq** | Detects and omits repeated adjacent lines. |  
 | **wc** | Outputs byte, word, and newline counts for files. |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. |
-| **whereis** | Locates manuals and sources/binaries for files. |
-| **which** | Displays absolute path of shell commands. |
+| **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
+| **which** | Displays absolute path of shell commands. | Files and Directories |
 
 **TODO #1:** Group commands by functionality/type (e.g., performance metric reporting, file creation), within repo subfolders (with command examples).  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
