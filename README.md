@@ -28,7 +28,7 @@
 | **gzip** | Reduces file size using the LZ77 lossless compression algorithm. | Compression |
 | **head** | Outputs first lines of file (10 by default). |  
 | **hwinfo** | Displays information about system hardware. | |
-| **kill** | Sends terminate signal to process/task. |
+| **kill** | Sends terminate signal to process/task. | Processes |
 | **less** | [see more], plus enables user to scroll backwards. |  
 | **locate** | Retrieves file (by file name). |
 | **ln** | Creates links between files. |
@@ -42,7 +42,7 @@
 | **parted** | Partitions and resizes disks. | Drives |
 | **patch** | Modifies file based on source (patch) file instructions produced by the diff utility. |
 | **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. |  
-| **ps** | Displays a report on currently running tasks/processes. |
+| **ps** | Displays a report on currently running tasks/processes. | Processes |
 | **pwd** | Prints working directory to standard output stream. |
 | **rm** | Deletes files or directories. |
 | **rmdir** | Deleted empty directories. |
@@ -56,7 +56,7 @@
 | **tail** | Outputs last lines of file (10 by default). |
 | **tee** | Reads from input stream and writes to output stream/files. |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  
-| **top** | Provides a realtime display of running tasks. |
+| **top** | Provides a realtime display of running tasks. | Processes |
 | **touch** | Creates blank files and updates file timestamps. |
 | **umount** | Unattaches file system of a drive from a directory. | Drives |
 | **uniq** | Detects and omits repeated adjacent lines. |  
