@@ -66,7 +66,7 @@
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
-| **zcat** | Displays contents of a compressed file to the command line. |
+| **zcat** | Displays contents of a compressed file to the command line. | Compression |
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
