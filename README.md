@@ -70,3 +70,4 @@
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
+**TODO #3:** Add the following commands/utilities: xz, zip, unzip, tar, cpio, dump, restore, dd, make, rpm, yum, dnf, apt-get, setfacl, getfacl.
