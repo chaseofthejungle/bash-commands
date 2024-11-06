@@ -10,6 +10,7 @@
 | **chgrp** | Changes group ownership association. | Permissions |
 | **chmod** | Changes file permissions for users, groups, and others. | Permissions |
 | **chown** | Changes file owner and group owner. | Permissions |
+| **compress** | Reduces file size using Lempel-Ziv algorithmic logic. | Compression |
 | **cp** | Copies files and directories as specified. | Files and Directories |
 | **cron** | Executes/runs commands as scheduled. | Processes | 
 | **curl** | Utility to transfer data (URL) to/from a server. | Data Transfer |
@@ -59,11 +60,13 @@
 | **top** | Provides a realtime display of running tasks. | Processes |
 | **touch** | Creates blank files and updates file timestamps. | Files and Directories |
 | **umount** | Unattaches file system of a drive from a directory. | Drives/Devices |
+| **uncompress** | Decompresses files that were compressed by the compress utility. | Compression |  
 | **uniq** | Detects and omits repeated adjacent lines. | Text Editing |
 | **wc** | Outputs byte, word, and newline counts for files. | Text Editing |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
+| **zcat** | Displays contents of a compressed file to the command line. |
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.
