@@ -3,6 +3,7 @@
   
 | Command | Purpose | Category |
 | --- | --- | :---: |
+| **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Managing |  
 | **awk** | [see gawk] | Text Editing |
 | **blkid** | Locates and prints block device attributes. |  Drives/Devices |
 | **cat** | Concatenates files. Prints using standard output stream. | Text Editing |
@@ -17,6 +18,7 @@
 | **cut** | Removes specified sections from each text input line. | Files and Directories |  
 | **df** | Displays 'disk free'/space usage of filesystems. | Drives/Devices |
 | **diff** | Performs a line-by-line comparison of files. | Files and Directories |
+| **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Managing |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
 | **echo** | Displays strings using standard output stream. | Text Editing | 
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
@@ -74,4 +76,4 @@
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make, rpm, yum, dnf, apt-get.
+**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make, rpm, yum.
