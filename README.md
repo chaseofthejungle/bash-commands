@@ -49,6 +49,7 @@
 | **ps** | Displays a report on currently running tasks/processes. | Processes |
 | **pwd** | Prints working directory to standard output stream. | Files and Directories |
 | **rm** | Deletes files or directories. | Files and Directories |
+| **rpm** | The Red Hat Packet Manager, commonly used in Red Hat distributions such as CentOS and Fedora. | Package Managing |
 | **rmdir** | Deleted empty directories. | Files and Directories |
 | **rsync** | A high-speed utility for remote file copying. | Data Transfer |
 | **scp** | Uses ssh data transfer and authentication for remote file copying. | Data Transfer |
@@ -72,8 +73,9 @@
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
+| **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Managing |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make, rpm, yum.
+**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make.
