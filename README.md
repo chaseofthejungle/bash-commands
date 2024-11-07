@@ -57,6 +57,7 @@
 | **ssh** | Launches the SSH remote communication protocol. | Data Transfer |
 | **sudo** | Allows user to execute commands as the superuser (or another user). | Permissions |
 | **tail** | Outputs last lines of file (10 by default). | Text Editing |
+| **tar** | Creates compressed files as a single disk archive or tape, and extracts compressed files. | Compression |  
 | **tee** | Reads from input stream and writes to output stream/files. | Text Editing |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  Data Transfer |
 | **top** | Provides a realtime display of running tasks. | Processes |
@@ -68,8 +69,9 @@
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
+| **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: xz, zip, unzip, tar, cpio, dump, restore, dd, make, rpm, yum, dnf, apt-get.
+**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make, rpm, yum, dnf, apt-get.
