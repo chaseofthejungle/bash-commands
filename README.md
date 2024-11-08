@@ -79,7 +79,16 @@
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
 | **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Managing |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
-| **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |
-
+| **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |  
+  
+**Keyboard Shortcuts:**  
+  
+| Shortcut | Purpose |  
+| --- | ---- |  
+| !! | Runs the Previous Command |  
+| **CTRL + C** | Terminates a Command Process |  
+| **CTRL + L** | Clears the Terminal Screen |  
+| **CTRL + Z** | Stops (Suspends) a Command Process |
+  
 **TODO #1:** Add a text file for each command, each including use cases.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
