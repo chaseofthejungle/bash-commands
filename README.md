@@ -68,6 +68,7 @@
 | **umount** | Unattaches file system of a drive from a directory. | Drives/Devices |
 | **uncompress** | Decompresses files that were compressed by the compress utility. | Compression |  
 | **uniq** | Detects and omits repeated adjacent lines. | Text Editing |
+| **unzip** | [see zip] Unpackages ZIP files. | Compression |
 | **wc** | Outputs byte, word, and newline counts for files. | Text Editing |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
@@ -75,7 +76,8 @@
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
 | **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Managing |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
+| **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: zip, unzip, cpio, dump, restore, dd, make.
+**TODO #3:** Add the following commands/utilities: cpio, dump, restore, dd, make.
