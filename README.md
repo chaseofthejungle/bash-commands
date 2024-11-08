@@ -4,7 +4,7 @@
 | Command | Purpose | Category |
 | --- | --- | :---: |
 | **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Managing |  
-| **awk** | [see gawk] | Text Editing |
+| **awk** | [see gawk] Original interpreter of the AWK programming language. | Text Editing |
 | **blkid** | Locates and prints block device attributes. |  Drives/Devices |
 | **cat** | Concatenates files. Prints using standard output stream. | Text Editing |
 | **cd** | Changes directory. | Files and Directories |
@@ -22,7 +22,6 @@
 | **diff** | Performs a line-by-line comparison of files. | Files and Directories |
 | **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Managing |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
-| **dump** | 
 | **echo** | Displays strings using standard output stream. | Text Editing | 
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
 | **file** | Returns file data type. | Files and Directories |
