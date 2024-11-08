@@ -80,6 +80,6 @@
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 | **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |
 
-**TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
+**TODO #1:** Add a text file for each command, each including use cases.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
 **TODO #3:** Add the following commands/utilities: cpio, dump, restore.
