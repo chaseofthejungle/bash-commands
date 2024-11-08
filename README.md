@@ -82,4 +82,3 @@
 
 **TODO #1:** Add a text file for each command, each including use cases.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: cpio, dump, restore.
