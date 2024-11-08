@@ -13,6 +13,7 @@
 | **chown** | Changes file owner and group owner. | Permissions |
 | **compress** | Reduces file size using Lempel-Ziv algorithmic logic. | Compression |
 | **cp** | Copies files and directories as specified. | Files and Directories |
+| **cpio** | Copies files in and out of archives via copy-in and copy-out modes. | Compression |  
 | **cron** | Executes/runs commands as scheduled. | Processes | 
 | **curl** | Utility to transfer data (URL) to/from a server. | Data Transfer |
 | **cut** | Removes specified sections from each text input line. | Files and Directories |  
@@ -21,6 +22,7 @@
 | **diff** | Performs a line-by-line comparison of files. | Files and Directories |
 | **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Managing |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
+| **dump** | 
 | **echo** | Displays strings using standard output stream. | Text Editing | 
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
 | **file** | Returns file data type. | Files and Directories |
