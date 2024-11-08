@@ -16,6 +16,7 @@
 | **cron** | Executes/runs commands as scheduled. | Processes | 
 | **curl** | Utility to transfer data (URL) to/from a server. | Data Transfer |
 | **cut** | Removes specified sections from each text input line. | Files and Directories |  
+| **dd** | Copies and converts files, and can backup disks. | Files and Directories |  
 | **df** | Displays 'disk free'/space usage of filesystems. | Drives/Devices |
 | **diff** | Performs a line-by-line comparison of files. | Files and Directories |
 | **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Managing |  
@@ -37,7 +38,8 @@
 | **locate** | Retrieves file (by file name). | Files and Directories |
 | **ln** | Creates links between files. | Files and Directories |
 | **ls** | Displays (lists) the contents of a specified directory. | Files and Directories |
-| **lsblk** | Displays information about block devices. | Drives/Devices |
+| **lsblk** | Displays information about block devices. | Drives/Devices |  
+| **make** | Automation tool for recompiling parts of large programs by using makefiles. | Files and Directories |  
 | **man** | Documentation for commands, functions, system calls, and other features. | Documentation |
 | **mkdir** | Creates directories. | Files and Directories |
 | **more** | Allows for paging through text output one screen at a time. | Text Editing |
@@ -80,4 +82,4 @@
 
 **TODO #1:** Add subfolders for each category of command, each including text files of command examples.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
-**TODO #3:** Add the following commands/utilities: cpio, dump, restore, dd, make.
+**TODO #3:** Add the following commands/utilities: cpio, dump, restore.
