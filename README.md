@@ -81,14 +81,23 @@
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 | **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |  
   
-**Keyboard Shortcuts:**  
+**bash Keyboard Shortcuts:**  
   
 | Shortcut | Purpose |  
-| --- | ---- |  
+| --- | --- |  
 | !! | Runs the Previous Command |  
 | **CTRL + C** | Terminates a Command Process |  
 | **CTRL + L** | Clears the Terminal Screen |  
 | **CTRL + Z** | Stops (Suspends) a Command Process |
-  
+
+**Nano Keyboard Shortcuts:**
+
+| Shortcut | Purpose | Category |
+| --- | --- | --- |  
+| Ctrl + O | Writes File with Specified Name | File Operations |
+| Ctrl + R | Inserts Contents of a File | File Operations |
+| Ctrl + S | Saves File | File Operations |
+| Ctrl + X | Exits Nano Editor | File Operations |
+
 **TODO #1:** Add a text file for each command, each including use cases.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
