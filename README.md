@@ -45,7 +45,8 @@
 | **mkdir** | Creates directories. | Files and Directories |
 | **more** | Allows for paging through text output one screen at a time. | Text Editing |
 | **mount** | Attaches file system of a drive to a target directory. | Drives/Devices |
-| **mv** | Moves/renames files (similar to a cut/paste of files). | Files and Directories |
+| **mv** | Moves/renames files (similar to a cut/paste of files). | Files and Directories |  
+| **nano** | Launches the GNU nano text editor. | Text Editing |  
 | **parted** | Partitions and resizes disks. | Drives/Devices |
 | **patch** | Modifies file based on source (patch) file instructions produced by the diff utility. | Text Editing |
 | **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. | Drives/Devices |
@@ -72,6 +73,7 @@
 | **uncompress** | Decompresses files that were compressed by the compress utility. | Compression |  
 | **uniq** | Detects and omits repeated adjacent lines. | Text Editing |
 | **unzip** | [see zip] Unpackages ZIP files. | Compression |
+| **vi** | Launches the vi text editor. | Text Editing |
 | **wc** | Outputs byte, word, and newline counts for files. | Text Editing |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
