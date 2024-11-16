@@ -92,7 +92,7 @@
 | `CTRL + L` | Clears the Terminal Screen |  
 | `CTRL + Z` | Stops (Suspends) a Command Process |
 
-**Nano Keyboard Shortcuts:**
+**[Nano](https://www.nano-editor.org/dist/latest/faq.html) Keyboard Shortcuts:**
 
 | Shortcut | Purpose | Category |
 | --- | --- | --- |  
