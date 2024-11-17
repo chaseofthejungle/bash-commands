@@ -83,7 +83,7 @@
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 | **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |  
   
-**bash Keyboard Shortcuts:**  
+**[bash](https://www.gnu.org/software/bash/) Keyboard Shortcuts:**  
   
 | Shortcut | Purpose |  
 | --- | --- |  
