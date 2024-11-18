@@ -102,5 +102,5 @@
 | `Ctrl + S` | Saves File | File Operations |
 | `Ctrl + X` | Exits Nano Editor | File Operations |
 
-**TODO #1:** Add a text file for each command, each including use cases.  
+**TODO #1:** Add a text file for each command, each including use cases and options/arguments.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
