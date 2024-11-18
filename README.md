@@ -64,6 +64,7 @@
 | **ssh** | Launches the SSH remote communication protocol. | Data Transfer |
 | **sudo** | Allows user to execute commands as the superuser (or another user). | Permissions |
 | **tail** | Outputs last lines of file (10 by default). | Text Editing |
+| **tac**| Concatenates files. Prints (in reverse) using standard output stream. | Text Editing |  
 | **tar** | Creates compressed files as a single disk archive or tape, and extracts compressed files. | Compression |  
 | **tee** | Reads from input stream and writes to output stream/files. | Text Editing |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  Data Transfer |
