@@ -1,6 +1,7 @@
 # bash commands and shortcuts 
 *Note: If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/), although it does not contain all of the commands in this repository. For some sample bash networking scripts, see [this repo](https://github.com/chaseofthejungle/bash-networking-scripts).*
-  
+<br /><br />
+
 | Command | Purpose | Category |
 | --- | --- | :---: |
 | **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Managing |  
