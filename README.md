@@ -3,7 +3,7 @@
 <br /><br />
 **[bash](https://www.gnu.org/software/bash/) Commands:**  
 | Command | Purpose | Category |
-| --- | --- | :---: |
+| --- | --- | --- |
 | **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Management |  
 | **awk** | [see 'gawk' command] Original interpreter of the AWK programming language. | Text Editing |
 | **blkid** | Locates and prints block device attributes. |  Drives/Devices |
