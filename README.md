@@ -83,8 +83,10 @@
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
 | **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Management |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
-| **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |  
-  
+| **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |
+
+<br /><br />
+
 **[bash](https://www.gnu.org/software/bash/) Keyboard Shortcuts:**  
   
 | Shortcut | Purpose |  
@@ -94,6 +96,8 @@
 | `CTRL + L` | Clears the Terminal Screen |  
 | `CTRL + Z` | Stops (Suspends) a Command Process |
 
+<br /><br />
+
 **[Nano](https://www.nano-editor.org/dist/latest/faq.html) Keyboard Shortcuts:**
 
 | Shortcut | Purpose | Category |
@@ -102,6 +106,8 @@
 | `Ctrl + R` | Inserts Contents of a File | File Operations |
 | `Ctrl + S` | Saves File | File Operations |
 | `Ctrl + X` | Exits Nano Editor | File Operations |
+
+<br /><br />
 
 **TODO #1:** Add a text file for each command, each including use cases and options/arguments.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
