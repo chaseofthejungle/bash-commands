@@ -4,7 +4,7 @@
 
 | Command | Purpose | Category |
 | --- | --- | :---: |
-| **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Managing |  
+| **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Package Management |  
 | **awk** | [see 'gawk' command] Original interpreter of the AWK programming language. | Text Editing |
 | **blkid** | Locates and prints block device attributes. |  Drives/Devices |
 | **cat** | Concatenates files. Prints using standard output stream. | Text Editing |
@@ -21,7 +21,7 @@
 | **dd** | Copies and converts files, and can backup disks. | Files and Directories |  
 | **df** | Displays 'disk free'/space usage of filesystems. | Drives/Devices |
 | **diff** | Performs a line-by-line comparison of files. | Files and Directories |
-| **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Managing |  
+| **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Management |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
 | **echo** | Displays strings using standard output stream. | Text Editing | 
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
@@ -54,7 +54,7 @@
 | **ps** | Displays a report on currently running tasks/processes. | Processes |
 | **pwd** | Prints working directory to standard output stream. | Files and Directories |
 | **rm** | Deletes files or directories. | Files and Directories |
-| **rpm** | The Red Hat Packet Manager, commonly used in Red Hat distributions such as CentOS and Fedora. | Package Managing |
+| **rpm** | The Red Hat Packet Manager, commonly used in Red Hat distributions such as CentOS and Fedora. | Package Management |
 | **rmdir** | Deleted empty directories. | Files and Directories |
 | **rsync** | A high-speed utility for remote file copying. | Data Transfer |
 | **scp** | Uses ssh data transfer and authentication for remote file copying. | Data Transfer |
@@ -81,7 +81,7 @@
 | **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
 | **which** | Displays absolute path of shell commands. | Files and Directories |
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
-| **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Managing |
+| **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Management |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 | **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |  
   
