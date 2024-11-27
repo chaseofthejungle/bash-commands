@@ -24,6 +24,7 @@
 | **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Management |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
 | **echo** | Displays strings using standard output stream. | Text Editing | 
+| **exit** | Invokes normal termination of process/task. | Processes |  
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
 | **file** | Returns file data type. | Files and Directories |
 | **find** | Scans directory hierarchy for files. | Files and Directories |
