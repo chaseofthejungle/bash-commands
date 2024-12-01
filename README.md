@@ -8,26 +8,26 @@
 | **awk** | [see 'gawk' command] Original interpreter of the AWK programming language. | Text Editing |
 | **blkid** | Locates and prints block device attributes. |  Drives/Devices |
 | **cat** | Concatenates files. Prints using standard output stream. | Text Editing |
-| **cd** | Changes directory. | Files and Directories |
+| **cd** | Changes directory. | Files/Directories |
 | **chgrp** | Changes group ownership association. | Permissions |
 | **chmod** | Changes file permissions for users, groups, and others. | Permissions |
 | **chown** | Changes file owner and group owner. | Permissions |
 | **compress** | Reduces file size using Lempel-Ziv algorithmic logic. | Compression |
-| **cp** | Copies files and directories as specified. | Files and Directories |
+| **cp** | Copies files and directories as specified. | Files/Directories |
 | **cpio** | Copies files in and out of archives via copy-in and copy-out modes. | Compression |  
 | **cron** | Executes/runs commands as scheduled. | Processes | 
 | **curl** | Utility to transfer data (URL) to/from a server. | Data Transfer |
-| **cut** | Removes specified sections from each text input line. | Files and Directories |  
-| **dd** | Copies and converts files, and can backup disks. | Files and Directories |  
+| **cut** | Removes specified sections from each text input line. | Files/Directories |  
+| **dd** | Copies and converts files, and can backup disks. | Files/Directories |  
 | **df** | Displays 'disk free'/space usage of filesystems. | Drives/Devices |
-| **diff** | Performs a line-by-line comparison of files. | Files and Directories |
+| **diff** | Performs a line-by-line comparison of files. | Files/Directories |
 | **dnf** | 'Dandified YUM'. Package manager for Fedora, RHEL, and CentOS. | Package Management |  
 | **du** | Displays disk space usage for directories and files. | Drives/Devices |
 | **echo** | Displays strings using standard output stream. | Text Editing | 
 | **exit** | Invokes normal termination of process/task. | Processes |  
 | **fdisk** | Utility for creating and modifying partition tables. | Drives/Devices |
-| **file** | Returns file data type. | Files and Directories |
-| **find** | Scans directory hierarchy for files. | Files and Directories |
+| **file** | Returns file data type. | Files/Directories |
+| **find** | Scans directory hierarchy for files. | Files/Directories |
 | **ftp** | Enables usage of File Transfer Protocol. | Data Transfer |
 | **gawk** | [see 'awk' command] The GNU implementation (for scanning and processing) of the AWK pattern programming language in GNU. | Text Editing |
 | **getfacl** | Retrieves file names, owners, group owners, and Access Control List permissions. | Permissions |
@@ -39,25 +39,25 @@
 | **hwinfo** | Displays information about system hardware. | Drives/Devices |
 | **kill** | Sends terminate signal to process/task. | Processes |
 | **less** | [see 'more' command] plus enables user to scroll backwards. | Text Editing |
-| **locate** | Retrieves file (by file name). | Files and Directories |
-| **ln** | Creates links between files. | Files and Directories |
-| **ls** | Displays (lists) the contents of a specified directory. | Files and Directories |
+| **locate** | Retrieves file (by file name). | Files/Directories |
+| **ln** | Creates links between files. | Files/Directories |
+| **ls** | Displays (lists) the contents of a specified directory. | Files/Directories |
 | **lsblk** | Displays information about block devices. | Drives/Devices |  
-| **make** | Automation tool for recompiling parts of large programs by using makefiles. | Files and Directories |  
+| **make** | Automation tool for recompiling parts of large programs by using makefiles. | Files/Directories |  
 | **man** | Documentation for commands, functions, system calls, and other features. | Documentation |
-| **mkdir** | Creates directories. | Files and Directories |
+| **mkdir** | Creates directories. | Files/Directories |
 | **more** | Allows for paging through text output one screen at a time. | Text Editing |
 | **mount** | Attaches file system of a drive to a target directory. | Drives/Devices |
-| **mv** | Moves/renames files (similar to a cut/paste of files). | Files and Directories |  
+| **mv** | Moves/renames files (similar to a cut/paste of files). | Files/Directories |  
 | **nano** | Launches the GNU nano text editor. | Text Editing |  
 | **parted** | Partitions and resizes disks. | Drives/Devices |
 | **patch** | Modifies file based on source (patch) file instructions produced by the diff utility. | Text Editing |
 | **ping** | Sends an ICMP ECHO_REQUEST datagram to a specified destination. | Drives/Devices |
 | **ps** | Displays a report on currently running tasks/processes. | Processes |
-| **pwd** | Prints working directory to standard output stream. | Files and Directories |
-| **rm** | Deletes files or directories. | Files and Directories |
+| **pwd** | Prints working directory to standard output stream. | Files/Directories |
+| **rm** | Deletes files or directories. | Files/Directories |
 | **rpm** | The Red Hat Packet Manager, commonly used in Red Hat distributions such as CentOS and Fedora. | Package Management |
-| **rmdir** | Deleted empty directories. | Files and Directories |
+| **rmdir** | Deleted empty directories. | Files/Directories |
 | **rsync** | A high-speed utility for remote file copying. | Data Transfer |
 | **scp** | Uses ssh data transfer and authentication for remote file copying. | Data Transfer |
 | **sed** | Filters and modifies input stream text. | Text Editing |
@@ -72,7 +72,7 @@
 | **tee** | Reads from input stream and writes to output stream/files. | Text Editing |
 | **telnet** | Launches user interface for the TELNET remote communication protocol. |  Data Transfer |
 | **top** | Provides a realtime display of running tasks. | Processes |
-| **touch** | Creates blank files and updates file timestamps. | Files and Directories |
+| **touch** | Creates blank files and updates file timestamps. | Files/Directories |
 | **umount** | Unattaches file system of a drive from a directory. | Drives/Devices |
 | **uncompress** | Decompresses files that were compressed by the compress utility. | Compression |  
 | **uniq** | Detects and omits repeated adjacent lines. | Text Editing |
@@ -80,8 +80,8 @@
 | **vi** | Launches the vi text editor. | Text Editing |
 | **wc** | Outputs byte, word, and newline counts for files. | Text Editing |
 | **wget** | HTTPS, HTTPS, and FTP utility for non-interactive web downloads. | Data Transfer |
-| **whereis** | Locates manuals and sources/binaries for files. | Files and Directories |
-| **which** | Displays absolute path of shell commands. | Files and Directories |
+| **whereis** | Locates manuals and sources/binaries for files. | Files/Directories |
+| **which** | Displays absolute path of shell commands. | Files/Directories |
 | **xz** | Compresses/decompresses .lzma and .xz files. | Compression |  
 | **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Package Management |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
