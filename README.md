@@ -1,7 +1,14 @@
 # bash commands and shortcuts 
 *Note: If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/), although it does not contain all of the commands in this repository. For some sample bash networking scripts, see [this repo](https://github.com/chaseofthejungle/bash-networking-scripts).*
-<br /><br />
-**[bash](https://www.gnu.org/software/bash/) Commands:**  
+  
+#### Table of Contents
+
+1. [bash Commands](#bash-cmds)
+2. [bash keyboard Shortcuts](#bash-keys)
+3. [Nano Keyboard Shortcuts](#nano-keys)
+<hr />
+  
+## 1. <a name="bash-cmds">[bash](https://www.gnu.org/software/bash/) Commands</a>
 | Command | Purpose | Category |
 | --- | --- | --- |
 | **apt-get** | Package managing utility, such as for adding, removing, and updating packages. | Packages |  
@@ -86,10 +93,10 @@
 | **yum** | 'Yellowdog Updater Modified'. A Red Hat based Package Manager. | Packages |
 | **zcat** | Displays contents of a compressed file to the command line. | Compression |
 | **zip** | Compresses/archives and packages files. PKZIP compatible. | Compression |
-
-<br /><br />
-
-**[bash](https://www.gnu.org/software/bash/) Keyboard Shortcuts:**  
+  
+<hr />
+  
+## 2. <a name="bash-keys">[bash](https://www.gnu.org/software/bash/) Keyboard Shortcuts</a>
   
 | Shortcut | Purpose |  
 | --- | --- |  
@@ -97,10 +104,10 @@
 | `CTRL + C` | Terminates a Command Process |  
 | `CTRL + L` | Clears the Terminal Screen |  
 | `CTRL + Z` | Stops (Suspends) a Command Process |
-
-<br /><br />
-
-**[Nano](https://www.nano-editor.org/dist/latest/faq.html) Keyboard Shortcuts:**
+  
+<hr />
+  
+## 3. <a name="nano-keys">[Nano](https://www.nano-editor.org/dist/latest/faq.html) Keyboard Shortcuts</a>
 
 | Shortcut | Purpose | Category |
 | --- | --- | --- |  
