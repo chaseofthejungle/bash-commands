@@ -6,6 +6,8 @@
 1. [bash Commands](#bash-cmds)
 2. [bash keyboard Shortcuts](#bash-keys)
 3. [Nano Keyboard Shortcuts](#nano-keys)
+4. [Supplemental Resource](#supplemental)
+  
 <hr />
   
 ## 1. <a name="bash-cmds">[bash](https://www.gnu.org/software/bash/) Commands</a>
@@ -116,7 +118,13 @@
 | `Ctrl + S` | Saves File | File Operations |
 | `Ctrl + X` | Exits Nano Editor | File Operations |
 
-<br /><br />
-
+<hr />
+  
+## 4. <a name="supplemental">Supplemental Resource</a>
+  
+[bash Networking Scripts Overview Guide](https://github.com/chaseofthejungle/bash-networking-scripts)
+  
+<hr />
+  
 **TODO #1:** Add a text file for each command, each including use cases and options/arguments.  
 **TODO #2:** Add keyboard shortcuts lists for bash terminal, Nano, and vim.  
