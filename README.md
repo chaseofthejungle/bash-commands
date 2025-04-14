@@ -6,7 +6,7 @@
 1. [bash Commands](#bash-cmds)
 2. [bash keyboard Shortcuts](#bash-keys)
 3. [Nano Keyboard Shortcuts](#nano-keys)
-4. [Supplemental Resource](#supplemental)
+4. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -120,9 +120,10 @@
 
 <hr />
   
-## 4. <a name="supplemental">Supplemental Resource</a>
+## 4. <a name="supplemental">Supplemental Resources</a>
   
-[bash Networking Scripts Overview Guide](https://github.com/chaseofthejungle/bash-networking-scripts)
+* [bash Networking Scripts Overview Guide](https://github.com/chaseofthejungle/bash-networking-scripts)
+* [gnu.org - Bash Project](https://www.gnu.org/software/bash/)
   
 <hr />
   
