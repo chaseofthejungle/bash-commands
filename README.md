@@ -122,8 +122,9 @@
   
 ## 4. <a name="supplemental">Supplemental Resources</a>
   
-* [bash Networking Scripts Overview Guide](https://github.com/chaseofthejungle/bash-networking-scripts)
-* [gnu.org - Bash Project](https://www.gnu.org/software/bash/)
+* *[bash Networking Scripts Overview Guide](https://github.com/chaseofthejungle/bash-networking-scripts)*  
+* *[gnu.org - Bash Project](https://www.gnu.org/software/bash/)*  
+* *[Official Xubuntu Website](https://xubuntu.org/tour/)*
   
 <hr />
   
